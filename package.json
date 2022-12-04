@@ -24,7 +24,7 @@
   },
   "logseq": {
     "id": "logseq-plugin-markdown-export",
-    "title": "logseq-plugin-markdown-export",
+    "title": "Markdown Export",
     "icon": "./icon.png"
   },
   "devDependencies": {
